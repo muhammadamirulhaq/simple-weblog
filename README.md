@@ -1,3 +1,3 @@
 # Weblog
 
-[Live Demo](https://mysimpleweblog.ihpapp.com/)
+Live demo [Simple Weblog](https://mysimpleweblog.ihpapp.com/)
